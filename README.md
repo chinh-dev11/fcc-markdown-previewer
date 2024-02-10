@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Build fail fixes
+## Build fail fix
 - Node.js v18.
 - react-scripts v5.
 - eslint-plugin-react-hooks v4.
