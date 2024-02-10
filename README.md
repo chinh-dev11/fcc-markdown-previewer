@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - react-scripts v5.
 - eslint-plugin-react-hooks v4.
 - node-sass v8.
+- add buffer package.
 
 ## Available Scripts
 
