@@ -1,4 +1,8 @@
-/* body {
+#fcc_test_suite_wrapper {
+  display: none;
+ }
+ 
+ /* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
