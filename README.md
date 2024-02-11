@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- Hosting at [chinh.ca](https://markdown-previewer.chinh.ca/).
+- Deploy on [Vercel](https://vercel.com).
+
 ## Build fail fix
 - Node.js v18.
 - react-scripts v5.
